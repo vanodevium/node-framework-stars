@@ -1,0 +1,22 @@
+{
+  "name": "node-framework-stars",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Automatic rank of node frameworks based on github stars",
+  "license": "WTFPL",
+  "author": {
+    "name": "Vano Devium",
+    "email": "vano@devium.me",
+    "url": "https://www.devium.me/"
+  },
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "17.2.3",
+    "framework-stars": "github:vanodevium/framework-stars#main",
+    "if-thursday": "1.0.3"
+  }
+}
