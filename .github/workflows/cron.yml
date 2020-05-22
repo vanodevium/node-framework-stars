@@ -1,0 +1,30 @@
+name: Update stars
+
+on:
+  schedule:
+    - cron:  '0,30 * * * *'
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: checkout
+      uses: actions/checkout@v1
+      with:
+        ref: master
+    - name: NPM
+      env:
+        TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        npm ci --only=production
+        npm run build
+    - name: Push force
+      run: |
+        git config user.email ${{ secrets.USER_EMAIL }}
+        git config user.name ${{ secrets.USER_NAME }}
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
+        git add README.MD
+        git diff --quiet && git diff --staged --quiet || (git commit --amend --no-edit; git push -u origin HEAD:master -f)
