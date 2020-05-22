@@ -1,0 +1,22 @@
+[
+  "expressjs/express",
+  "hapijs/hapi",
+  "koajs/koa",
+  "nestjs/nest",
+  "adonisjs/adonis-framework",
+  "totaljs/framework",
+  "balderdashy/sails",
+  "strapi/strapi",
+  "meteor/meteor",
+  "fastify/fastify",
+  "linnovate/mean",
+  "feathersjs/feathers",
+  "strongloop/loopback",
+  "restify/node-restify",
+  "moleculerjs/moleculer",
+  "lukeed/polka",
+  "talentlessguy/tinyhttp",
+  "foxifyjs/foxify",
+  "htdangkhoa/pure-http",
+  "actionhero/actionhero"
+]
