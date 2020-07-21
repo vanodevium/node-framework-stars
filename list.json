@@ -14,5 +14,6 @@
   "strongloop/loopback",
   "restify/node-restify",
   "moleculerjs/moleculer",
-  "lukeed/polka"
+  "lukeed/polka",
+  "talentlessguy/tinyhttp"
 ]
