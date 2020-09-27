@@ -15,5 +15,6 @@
   "restify/node-restify",
   "moleculerjs/moleculer",
   "lukeed/polka",
-  "talentlessguy/tinyhttp"
+  "talentlessguy/tinyhttp",
+  "jeremydaly/lambda-api"
 ]
