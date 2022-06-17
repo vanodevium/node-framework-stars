@@ -14,7 +14,7 @@
     "date-fns": "^2.26.0",
     "dotenv": "^10.0.0",
     "if-thursday": "^1.0.0",
-    "undici": "^4.10.3"
+    "undici": "^5.5.1"
   },
   "scripts": {
     "build": "node index.js"
