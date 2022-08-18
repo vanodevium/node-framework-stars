@@ -18,5 +18,6 @@
   "talentlessguy/tinyhttp",
   "foxifyjs/foxify",
   "htdangkhoa/pure-http",
-  "actionhero/actionhero"
+  "actionhero/actionhero",
+  "vercel/next.js"
 ]
