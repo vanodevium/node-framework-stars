@@ -9,6 +9,7 @@
   "strapi/strapi",
   "meteor/meteor",
   "fastify/fastify",
+  "trpc/trpc",
   "linnovate/mean",
   "feathersjs/feathers",
   "strongloop/loopback",
