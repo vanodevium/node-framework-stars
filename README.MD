@@ -11,6 +11,7 @@ Please update **list.json** (via PR)
 | [meteor/meteor](https://github.com/meteor/meteor) | 43530 | 5252 | 240 | Meteor, the JavaScript App Platform | June 01, 2023 | Other |
 | [koajs/koa](https://github.com/koajs/koa) | 34101 | 3298 | 58 | Expressive middleware for node.js using ES2017 async functions | May 17, 2023 | MIT License |
 | [fastify/fastify](https://github.com/fastify/fastify) | 27600 | 2041 | 99 | Fast and low overhead web framework, for Node.js | June 12, 2023 | Other |
+| [trpc/trpc](https://github.com/trpc/trpc)| 26400 | 909 | 69 | Move Fast and Break Nothing. End-to-end typesafe APIs made easy. | June 12, 2023 | MIT License |
 | [balderdashy/sails](https://github.com/balderdashy/sails) | 22591 | 1977 | 565 | Realtime MVC Framework for Node.js | May 19, 2023 | MIT License |
 | [feathersjs/feathers](https://github.com/feathersjs/feathers) | 14639 | 740 | 104 | The API and real-time application framework | June 07, 2023 | MIT License |
 | [hapijs/hapi](https://github.com/hapijs/hapi) | 14292 | 1382 | 49 | The Simple, Secure Framework Developers Trust | April 24, 2023 | Other |
@@ -26,4 +27,4 @@ Please update **list.json** (via PR)
 | [htdangkhoa/pure-http](https://github.com/htdangkhoa/pure-http) | 164 | 9 | 9 | ✨ The simple web framework for Node.js with zero dependencies. | May 03, 2023 | MIT License |
 | [foxifyjs/foxify](https://github.com/foxifyjs/foxify) | 147 | 9 | 11 | The fast, easy to use & typescript ready web framework for Node.js | June 13, 2023 | MIT License |
 
-*Last Update*: UTC 14:34, June 13, 2023
+*Last Update*: UTC 15:07, June 13, 2023
