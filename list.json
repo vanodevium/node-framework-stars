@@ -19,5 +19,6 @@
   "foxifyjs/foxify",
   "htdangkhoa/pure-http",
   "actionhero/actionhero",
-  "trpc/trpc"
+  "trpc/trpc",
+  "FoalTS/foal"
 ]
