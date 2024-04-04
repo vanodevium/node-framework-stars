@@ -17,6 +17,6 @@
     "date-fns": "3.3.1",
     "dotenv": "16.4.5",
     "if-thursday": "1.0.2",
-    "undici": "6.7.0"
+    "undici": "6.11.1"
   }
 }
