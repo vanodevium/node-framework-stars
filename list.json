@@ -25,5 +25,6 @@
   "remix-run/remix",
   "unjs/nitro",
   "unjs/h3",
-  "bit-js/byte"
+  "bit-js/byte",
+  "mojolicious/mojo.js"
 ]
