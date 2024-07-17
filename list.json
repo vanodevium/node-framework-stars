@@ -26,5 +26,6 @@
   "unjs/nitro",
   "unjs/h3",
   "bit-js/byte",
-  "mojolicious/mojo.js"
+  "mojolicious/mojo.js",
+  "eicrud/eicrud"
 ]
