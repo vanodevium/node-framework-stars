@@ -22,6 +22,7 @@ A list of popular GitHub projects related to Node.js web framework (ranked by st
 | [restify/node-restify](https://github.com/restify/node-restify) | 10707 | 981 | 123 | The future of Node.js REST development | January 27, 2024 | MIT License |
 | [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) | 6089 | 578 | 62 | :rocket: Progressive microservices framework for Node.js | July 28, 2024 | MIT License |
 | [unjs/nitro](https://github.com/unjs/nitro) | 5624 | 484 | 438 | Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer. | August 01, 2024 | MIT License |
+| [encoredev/encore](https://github.com/encoredev/encore) | 5383 | 244 | 52 | High-performance microservices framework with end-to-end type-safety and built-in tracing. | June 27, 2024 | MLP2.0 License |
 | [lukeed/polka](https://github.com/lukeed/polka) | 5375 | 170 | 26 | A micro web server so fast, it'll make you dance! :dancers: | June 23, 2024 | MIT License |
 | [totaljs/framework](https://github.com/totaljs/framework) | 4352 | 454 | 2 | Node.js framework | March 22, 2024 | Other |
 | [unjs/h3](https://github.com/unjs/h3) | 3407 | 196 | 62 | ⚡️ Minimal H(TTP) framework built for high performance and portability  | July 25, 2024 | MIT License |
