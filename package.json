@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "dotenv": "17.2.3",
-    "framework-stars": "github:vanodevium/framework-stars#main",
+    "framework-stars": "github:vanodevium/framework-stars#bd8779a9fc78ebd521fec615319c3859752c0e8f",
     "if-thursday": "1.0.3"
   }
 }
